@@ -275,7 +275,7 @@ edunotify-telegram-alert-system/
 │       └── Loads configuration from the repository-root .env file
 │
 ├── docs/
-│   └── EduNotify-System-Demo.pdf
+│   └── eduNotify-system-demo.pdf
 │       └── End-to-end application demonstration
 │
 ├── .env.example
