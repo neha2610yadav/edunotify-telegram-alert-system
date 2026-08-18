@@ -216,7 +216,7 @@ The history includes:
 
 A complete end-to-end demonstration of the working application is available here:
 
-### [View EduNotify System Demo](docs/EduNotify-System-Demo.pdf)
+### [View EduNotify System Demo](docs/eduNotify-system-demo.pdf)
 
 The PDF demonstrates:
 
