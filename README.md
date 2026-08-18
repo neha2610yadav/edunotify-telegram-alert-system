@@ -216,7 +216,7 @@ The history includes:
 
 A complete end-to-end demonstration of the working application is available here:
 
-### [View EduNotify System Demo](docs/eduNotify-system-demo.pdf)
+### [📄 View EduNotify System Demo](https://github.com/neha2610yadav/edunotify-telegram-alert-system/raw/refs/heads/main/docs/edunotify_system_demo.pdf)
 
 The PDF demonstrates:
 
