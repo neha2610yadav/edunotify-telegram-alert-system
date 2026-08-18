@@ -218,7 +218,7 @@ The history includes:
 ![Telegram Linking Dashboard](docs/images/telegram-linking.png)
 
 ### Email Invitation
-![Telegram Email Invitation](docs/images/email-invitation.png)
+![Telegram Email Invitation](docs/images/email-invitation.jpeg)
 
 ### Send Telegram Alert
 ![Send Telegram Alert](docs/images/send-alert.png)
